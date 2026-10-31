@@ -1,0 +1,8 @@
+{
+  "name": "Balap Ayam Bhinneka Tunggal Ika",
+  "description": "Game kuis balapan interaktif untuk siswa SMA kelas X tentang sejarah, asal mula, dan makna filosofis Bhinneka Tunggal Ika. Mendukung hingga 4 pemain di papan interaktif dengan kartu materi remedi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
